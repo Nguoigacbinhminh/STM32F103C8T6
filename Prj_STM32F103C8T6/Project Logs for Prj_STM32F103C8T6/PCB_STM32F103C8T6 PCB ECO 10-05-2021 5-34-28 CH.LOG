@@ -1,0 +1,12 @@
+Change Component Description : Designator=C3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=C4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L3 Old Description=C?m New Description=C?m
+Added Pin To Net: NetName=USB_D+ Pin=JP4-12
+Added Pin To Net: NetName=USB_D- Pin=JP4-13
+Added Member To Class: ClassName=SCH_STM32F103C8T6 Member=Component Y2 16Mhz

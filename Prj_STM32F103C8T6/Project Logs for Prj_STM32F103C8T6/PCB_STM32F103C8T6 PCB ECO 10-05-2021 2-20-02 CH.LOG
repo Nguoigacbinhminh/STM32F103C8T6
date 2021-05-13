@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=SWCLK Pin=U1-37
+Added Pin To Net: NetName=PA15 Pin=U1-38
+Added Pin To Net: NetName=PB3 Pin=U1-39
+Added Pin To Net: NetName=PB4 Pin=U1-40
+Added Pin To Net: NetName=PB5 Pin=U1-41
+Added Pin To Net: NetName=PB6 Pin=U1-42
+Added Pin To Net: NetName=PB7 Pin=U1-43
+Added Pin To Net: NetName=BOOT0 Pin=U1-44
+Added Pin To Net: NetName=PB8 Pin=U1-45
+Added Pin To Net: NetName=PB9 Pin=U1-46
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=VCC_3V3 Pin=U1-48

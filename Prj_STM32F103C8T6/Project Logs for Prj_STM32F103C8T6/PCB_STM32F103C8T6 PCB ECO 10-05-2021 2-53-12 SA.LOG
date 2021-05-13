@@ -1,0 +1,11 @@
+Change Component DesignItemId : Designator=JP3 Old DesignItemId=JP 1x20 2.54 Cai Thang New DesignItemId=JP 1x20 2.54 Duc Thang
+Change Component DesignItemId : Designator=JP4 Old DesignItemId=JP 1x20 2.54 Cai Thang New DesignItemId=JP 1x20 2.54 Duc Thang
+Change Component Footprint: Designator=JP3 Old Footprint=JP 1x20 CT New Footprint=JP 1x20 DT
+Change Component Footprint: Designator=JP4 Old Footprint=JP 1x20 CT New Footprint=JP 1x20 DT
+Change Component Description : Designator=C3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=C4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L3 Old Description=C?m New Description=C?m
